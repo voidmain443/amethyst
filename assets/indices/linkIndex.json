@@ -4,6 +4,11 @@
       "/": [
         {
           "source": "/",
+          "target": "/setup/config",
+          "text": "A link to the config page"
+        },
+        {
+          "source": "/",
           "target": "/setup/setup",
           "text": "Setup your own Amethyst instance"
         },
@@ -46,6 +51,13 @@
           "source": "/",
           "target": "/setup/troubleshooting",
           "text": "Troubleshooting and FAQ"
+        }
+      ],
+      "/amethystblog/Welcome": [
+        {
+          "source": "/amethystblog/Welcome",
+          "target": "/create-a-link",
+          "text": "create a link"
         }
       ],
       "/features/languages": [
@@ -191,6 +203,13 @@
       ]
     },
     "backlinks": {
+      "/create-a-link": [
+        {
+          "source": "/amethystblog/Welcome",
+          "target": "/create-a-link",
+          "text": "create a link"
+        }
+      ],
       "/features/language": [
         {
           "source": "/setup/config",
@@ -206,6 +225,11 @@
         }
       ],
       "/setup/config": [
+        {
+          "source": "/",
+          "target": "/setup/config",
+          "text": "A link to the config page"
+        },
         {
           "source": "/",
           "target": "/setup/config",
@@ -392,6 +416,11 @@
   "links": [
     {
       "source": "/",
+      "target": "/setup/config",
+      "text": "A link to the config page"
+    },
+    {
+      "source": "/",
       "target": "/setup/setup",
       "text": "Setup your own Amethyst instance"
     },
@@ -434,6 +463,11 @@
       "source": "/",
       "target": "/setup/troubleshooting",
       "text": "Troubleshooting and FAQ"
+    },
+    {
+      "source": "/amethystblog/Welcome",
+      "target": "/create-a-link",
+      "text": "create a link"
     },
     {
       "source": "/features/languages",

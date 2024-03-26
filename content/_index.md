@@ -3,6 +3,13 @@ title: 💜 Welcome to Amethyst!
 enableToc: false
 ---
 
+For example, I want to link this current document to `setup/config.md`.
+[A link to the config page](setup/config.md)
+
+Example image (source is in content/setup/images/example.png)
+![Example Image](/content/setup/images/github-actions.png)
+
+
 ## What is Amethyst?
 Amethyst is a free [Obsidian Publish](https://obsidian.md/publish) alternative that is derived from two existing projects, [Quartz](https://quartz.jzhao.xyz/) and [Hugo Book](https://github.com/alex-shpak/hugo-book).
 
