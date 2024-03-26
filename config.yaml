@@ -1,4 +1,4 @@
-baseURL: https://amethyst.bencuan.me
+baseURL: "https://github.com/voidmain443/amethyst/"
 
 # Book configuration
 disablePathToLower: true
